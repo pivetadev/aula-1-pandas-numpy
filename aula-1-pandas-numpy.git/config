@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/pivetadev/aula-1-pandas-numpy.git
+	fetch = +refs/*:refs/*
+	mirror = true
